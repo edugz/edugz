@@ -1,4 +1,4 @@
-# Hi there 👋
+# Introduction
 
 I'm Eduardo — currently transitioning from Hospitality into Software Development.  
 I’m focused on learning practical technologies and building real-world apps to sharpen my skills.  
