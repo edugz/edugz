@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Eduardo — currently transitioning from Hospitality into Software Development.  
-I’m focused on learning modern frontend technologies and building real-world apps to sharpen my skills.  
+I’m focused on learning practical technologies and building real-world apps to sharpen my skills.  
 
 ---
 
@@ -14,8 +14,7 @@ I’m focused on learning modern frontend technologies and building real-world a
 
 ### 🛠️ Tools & Technologies
 
-- JavaScript, React, React Native  
-- HTML, CSS  
+- JavaScript, React, React Native
 - Node.js, Express.js
+- Python
 - Git & GitHub
-- Python Basics
